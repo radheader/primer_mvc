@@ -15,7 +15,7 @@ tests/auth_test_data/sheets.googleapis.com-python.json
 .DS_Store
 .python-version
 .coverage
-
+ primer_mvc/__pycache__/urls.cpython-39.pyc
 
 
 
